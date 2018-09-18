@@ -1,0 +1,30 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_plugin_uuid (0.0.1):
+    - Flutter
+    - SAMKeychain
+  - SAMKeychain (1.5.3)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_plugin_uuid (from `.symlinks/plugins/flutter_plugin_uuid/ios`)
+  - SAMKeychain
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SAMKeychain
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_plugin_uuid:
+    :path: ".symlinks/plugins/flutter_plugin_uuid/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  flutter_plugin_uuid: dcd4ac9439da1bb15256e52c4f0ba53797ec1876
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+
+PODFILE CHECKSUM: e48677710072d2b1986346be86a42f4b2442ad58
+
+COCOAPODS: 1.5.3
